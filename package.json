@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/litten/hexo-theme-yilia#readme",
   "devDependencies": {
+    "mime": ">=1.4.1",
     "autoprefixer": "^6.5.1",
     "clean-webpack-plugin": "^0.1.15",
     "cross-env": "^1.0.6",
@@ -38,6 +39,7 @@
     "webpack": "^1.13.2"
   },
   "dependencies": {
+    "mime": ">=1.4.1",
     "babel-core": "6.24.0",
     "babel-loader": "6.4.0",
     "babel-plugin-transform-runtime": "6.23.0",
