@@ -72,7 +72,7 @@
   text-shadow: none;
 }
 .article-entry .highlight .line {
-  color: #2aa198 !important;
+  color: #333 !important;
   min-height: 19px;
   text-shadow:none;
 }
@@ -128,7 +128,7 @@ pre .comment {
 pre .keyword,
 pre .function .keyword,
 pre .class .params {
-  color: #66d9ef;
+  color: #d73a49;
 }
 pre .tag,
 pre .doctype,
@@ -150,14 +150,14 @@ pre .built_in,
 pre .class,
 pre .css ~ * .class,
 pre .function .title {
-  color: #a6e22e;
+  color: #005cc5;
 }
 pre .value,
 pre .string {
-  color: #e6db74;
+  color: #d65f71;
 }
 pre .number {
-  color: #7163d7;
+  color: #357e7f;
 }
 pre .id,
 pre .css ~ * .id {
